@@ -5,6 +5,6 @@ package com.example.kartik.mail;
  */
 
     public class config {
-        public static final String EMAIL ="jatinvijay7827@gmail.com";
-        public static final String PASSWORD ="jatin1234";
+        public static final String EMAIL ="mail";
+        public static final String PASSWORD ="pass";
 }
